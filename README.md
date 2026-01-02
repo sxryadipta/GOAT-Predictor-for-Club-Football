@@ -5,7 +5,7 @@ A simple MVP that predicts a football player's GOAT score based on stats like go
 ## Features
 - Uses a basic linear regression model.
 - CSV-based data storage.
-- Fully local — no API calls needed.
+- Fully local.
 
 ## Setup
 ```bash
